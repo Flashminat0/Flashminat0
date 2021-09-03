@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasas Lowe</h1>
+
+<p align="center">
+  <img src="https://thumbs.gfycat.com/ScrawnyViciousGnat-size_restricted.gif" />
+</p>
+
 <h3 align="center">A Learning Fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashminat0&label=Profile%20views&color=0e75b6&style=flat" alt="flashminat0" /> </p>
