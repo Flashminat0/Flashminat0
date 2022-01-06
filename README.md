@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasas Lowe</h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/RXIa9CVfFwoAAAAM/yellow-yondaime.gif" />
+  <img src="https://c.tenor.com/MGRypjLNg1AAAAAM/naruto-minato.gif" />
 </p>
 
 <h3 align="center">A Learning Fullstack developer from Sri Lanka</h3>
