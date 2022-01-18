@@ -29,6 +29,6 @@
 
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flashminat0&show_icons=true&theme=dark&locale=en" alt="flashminat0" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=flashminat0&show_icons=true&theme=dark&locale=en" alt="flashminat0" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashminat0&theme=dark" alt="flashminat0" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashminat0&theme=dark" alt="flashminat0" />
