@@ -6,7 +6,7 @@
 
 
 
-- <img src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/000000/external-telescope-aerospace-phatplus-lineal-color-phatplus.png"/> I’m currently working on **SUSTY - Cloths shop website**
+- <img src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/000000/external-telescope-aerospace-phatplus-lineal-color-phatplus.png" width="10px"/> I’m currently working on **SUSTY - Cloths shop website**
 
 - 🌱 I’m currently learning **Next.JS and Framer Motion**
 
