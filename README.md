@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **SUSTY - Cloths shop website**
 
-- 🌱 I’m currently learning **Next.JS and Framer Motion**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **React , Express**
 
