@@ -3,8 +3,9 @@
   <img src="https://c.tenor.com/MGRypjLNg1AAAAAM/naruto-minato.gif" />
 </p>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
-<img src="https://github.com/Flashminat0/Flashminat0/blob/89891e1befe9383d86b82a803220380bfbdf8987/standard.gif" />
-
+<p>
+   <img src="https://github.com/Flashminat0/Flashminat0/blob/89891e1befe9383d86b82a803220380bfbdf8987/standard.gif" />
+</p>
 
 - 🔭 I’m currently working on **SUSTY - Cloths shop website**
 
