@@ -26,7 +26,7 @@
 <p align="left"> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=flashminat0&show_icons=true&theme=dark&locale=en&layout=compact" alt="flashminat0" />
 </p>
-<p align="right"> 
+<p align="left"> 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&redirect=true)
 
 </p>
