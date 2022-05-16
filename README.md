@@ -39,11 +39,11 @@
 </td>
   </tr>
   <tr>
-    <td class="tg-0pky" style="padding:20px;">
+    <td class="tg-0pky">
 <h3>Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,mongodb,firebase,aws,gcp,js,figma,tailwind&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,mongodb,firebase,aws,gcp,js,figma,tailwind&perline=12)](https://skillicons.dev)
 
 </td>
   </tr>
