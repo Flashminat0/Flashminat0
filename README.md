@@ -36,7 +36,7 @@
 
 
 - 🔄️ Profile view counter :  &nbsp;  ![](https://komarev.com/ghpvc/?username=Flashminat0&style=flat-square)
-      
+      <hr/>
     <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yasaslowe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yasaslowe"  /></a>
@@ -45,7 +45,10 @@
 </p></td>
     <td class="tg-0lax">
      <img width="500px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-    </td>
+      <br/>
+      <p align="center">
+     Hint : refresh this page to see more memes :)</p>
+  </td>
   </tr>
 </thead>
 </table>
@@ -67,6 +70,8 @@
  
   <p align="right">
    <img width="100px" src="https://github.com/Flashminat0/Flashminat0/blob/main/com-gif-maker-unscreen.gif" />
+    
+    
   </p>
       
 </td>
