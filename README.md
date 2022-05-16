@@ -47,7 +47,7 @@
   
 </p></td>
     <td class="tg-0lax">
-     <img width="500px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+      <img src="https://random-memer.herokuapp.com/" width="512px"/>
       <br/>
       <p align="center">
      Hint : refresh this page to see more memes :)</p>
