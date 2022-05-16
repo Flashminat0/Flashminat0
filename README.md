@@ -30,7 +30,14 @@
   <tr>
     <td class="tg-0pky"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashminat0&show_icons=true&theme=dark&locale=en&layout=compact" alt="flashminat0" />
       
-      <img src="https://forthebadge.com/images/badges/uses-js.svg"/>
+      
+  </p>
+      <img src="https://forthebadge.com/images/badges/uses-js.svg" />
+      
+  <p align="right">
+   <img width="100px" src="https://github.com/Flashminat0/Flashminat0/blob/main/com-gif-maker-unscreen.gif" />
+  </p>
+      
 </td>
     <td class="tg-0pky" rowspan="2">
 
