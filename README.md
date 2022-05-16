@@ -24,15 +24,21 @@ I'm Flashminat0</h1>
 <a href="https://linkedin.com/in/yasaslowe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasaslowe" height="30" width="40" /></a>
 </p>
 
-<div style="display: grid;
-grid-template-columns: repeat(5, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;">
-<div style="grid-area: 1 / 1 / 3 / 4; ">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashminat0&show_icons=true&theme=dark&locale=en&layout=compact" alt="flashminat0" />
-</div>
-<div style="grid-area: 3 / 1 / 6 / 4;">
+<table style="border-collapse:collapse;border-spacing:0;" cellpadding="0" cellspacing="0" border="0">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashminat0&show_icons=true&theme=dark&locale=en&layout=compact" alt="flashminat0" />
+</td>
+    <td class="tg-0pky" rowspan="2">
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&redirect=true)
+
+
+</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">
 <h3>Languages and Tools:</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -50,14 +56,11 @@ grid-row-gap: 0px;">
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</div>
+</td>
+  </tr>
+</thead>
+</table>
 
-<div style="grid-area: 1 / 4 / 6 / 6; ">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31sgqh6byvb453iq56lij7uhizwi&redirect=true)
-
-</div>
-</div> 
 
 <br>
 <div style="display: grid;
@@ -73,3 +76,5 @@ grid-gap: 10px;">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashminat0&theme=dark" alt="flashminat0" />
 </div>
 </div>
+
+
