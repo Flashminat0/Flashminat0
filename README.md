@@ -63,18 +63,17 @@ I'm Flashminat0</h1>
 
 
 <br>
-<div style="display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: 1fr;
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-grid-gap: 10px;">
-<div style="grid-area: 1 / 1 / 2 / 2;">
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flashminat0&show_icons=true&theme=dark&locale=en" alt="flashminat0" />
-</div>
-<div style="grid-area: 1 / 2 / 2 / 3;">
+</td>
+    <td class="tg-0pky">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashminat0&theme=dark" alt="flashminat0" />
-</div>
-</div>
+</td>
+  </tr>
+</thead>
 
-
+</table>
