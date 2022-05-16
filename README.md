@@ -39,7 +39,7 @@
 </td>
   </tr>
   <tr>
-    <td class="tg-0pky">
+    <td class="tg-0pky" style="padding:20px;">
 <h3>Languages and Tools:</h3>
 
 
