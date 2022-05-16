@@ -9,21 +9,49 @@
    <img src="https://github.com/Flashminat0/Flashminat0/blob/89891e1befe9383d86b82a803220380bfbdf8987/standard.gif" />
 </p>
 
+
+
+<p align="right">
+  
+  
+  
+  
+
+
+</p>
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky">
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Take+a+time+to+appriciate+my+work+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+      
+      
 - 🔭 I’m currently working on **SUSTY - Cloths shop website**
 
 - 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **React , Express**
 
-- 📫 How to reach me **wyasaslowe@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flashminat0&label=Profile%20views&color=5f24cc&style=flat-square" alt="flashminat0" /> </p>
+- 🔄️ Profile view counter :  &nbsp;  ![](https://komarev.com/ghpvc/?username=Flashminat0&style=flat-square)
+      
+    <h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/yasaslowe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yasaslowe"  /></a>
+  <a href="mailto:wyasaslowe@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yasaslowe"  /></a>
+  
+</p></td>
+    <td class="tg-0lax">
+     <img width="500px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+    </td>
+  </tr>
+</thead>
+</table>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasaslowe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasaslowe" height="30" width="40" /></a>
-</p>
+
 
 <table style="border-collapse:collapse;border-spacing:0;" cellpadding="0" cellspacing="0" border="0">
 <thead>
@@ -33,7 +61,10 @@
       
   </p>
       <img src="https://forthebadge.com/images/badges/uses-js.svg" />
-      
+  
+  
+  
+ 
   <p align="right">
    <img width="100px" src="https://github.com/Flashminat0/Flashminat0/blob/main/com-gif-maker-unscreen.gif" />
   </p>
