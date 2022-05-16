@@ -43,7 +43,7 @@
 <h3>Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,mongodb,firebase,aws,gcp,js,figma,tailwind&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,mongodb,firebase,aws,gcp,js,figma,tailwind&perline=12)](https://skillicons.dev)
 
 </td>
   </tr>
