@@ -36,11 +36,14 @@
 
 
 - 🔄️ Profile view counter :  &nbsp;  ![](https://komarev.com/ghpvc/?username=Flashminat0&style=flat-square)
-      <hr/>
+<hr/>
     <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yasaslowe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yasaslowe"  /></a>
-  <a href="mailto:wyasaslowe@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yasaslowe"  /></a>
+  <a href="mailto:wyasaslowe@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yasaslowe"  /></a><hr/>
+  
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
   
 </p></td>
     <td class="tg-0lax">
@@ -96,22 +99,41 @@
 </thead>
 </table>
 
+</br></br>
 
+<div align="center">
+  
+  
+  
+  
 
+  
+  
+  
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flashminat0&theme=github_dark)
 
 
-
-<br>
+</div>
 
 <table class="tg">
 <thead>
   <tr>
     <td class="tg-0pky">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=flashminat0&show_icons=true&theme=dark&locale=en" alt="flashminat0" />
+      
+      
+![](https://github-readme-stats.vercel.app/api?username=Flashminat0&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)
+      
+      
+      
 </td>
     <td class="tg-0pky">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashminat0&theme=dark" alt="flashminat0" />
+
+      
+![](https://github-readme-streak-stats.herokuapp.com/?user=Flashminat0&theme=vision-friendly-dark&hide_border=true)
+      
+      
+      
 </td>
   </tr>
 </thead>
