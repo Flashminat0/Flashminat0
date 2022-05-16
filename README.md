@@ -48,7 +48,7 @@
 </p></td>
     <td class="tg-0lax">
       <img src="https://random-memer.herokuapp.com/" width="512px"/>
-      <br/>
+      <hr/>
       <p align="center">
      Hint : refresh this page to see more memes :)</p>
   </td>
