@@ -116,7 +116,7 @@
 
 </div>
 
-<table class="tg">
+<table class="tg" style="border: none!important">
 <thead>
   <tr>
     <td class="tg-0pky">
