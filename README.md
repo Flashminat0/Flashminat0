@@ -130,7 +130,8 @@
     <td class="tg-0pky">
 
       
-![](https://github-readme-streak-stats.herokuapp.com/?user=Flashminat0&theme=vision-friendly-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flashminat0&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&currStreakNum=A643FF&fire=FFC91D&sideNums=6711B4)](https://git.io/streak-stats)
+      
       
       
       
