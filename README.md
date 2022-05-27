@@ -47,10 +47,9 @@
   
 </p></td>
     <td class="tg-0lax">
-      <img src="https://random-memer.herokuapp.com/" width="512px"/>
+      <img src="https://preview.redd.it/uxtezl5qcu191.jpg?width=640&crop=smart&auto=webp&s=de03568f9727b51eb8d772c7f2c9ea0d6b83fac5" width="512px"/>
       <br/><br/>
-      <p align="center">
-     Hint : refresh this page to see more memes :)</p>
+    
   </td>
   </tr>
 </thead>
