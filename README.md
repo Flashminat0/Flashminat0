@@ -69,12 +69,6 @@
   
   
   
- 
-  <p align="right">
-   <img width="100px" src="https://github.com/Flashminat0/Flashminat0/blob/main/com-gif-maker-unscreen.gif" />
-    
-    
-  </p>
       
 </td>
     <td class="tg-0pky" rowspan="2">
