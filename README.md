@@ -47,7 +47,7 @@
   
 </p></td>
     <td class="tg-0lax">
-      <img src="https://i.redd.it/fxgqojuz7s491.jpg" width="512px"/>
+      <img src="https://i.redd.it/zi3wy5pqmx491.png" width="512px"/>
       <br/><br/>
     
   </td>
