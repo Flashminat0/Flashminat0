@@ -49,7 +49,7 @@
   
 </p></td>
     <td class="tg-0lax">
-      <img src="https://preview.redd.it/49gvl9qvzj591.jpg?width=960&crop=smart&auto=webp&s=bd81f2b86f778815f5668cec746eb48585b0af33" width="512px"/>
+      <img src="https://preview.redd.it/oz6sfq9cmu591.jpg?width=960&crop=smart&auto=webp&s=44ac366a3d608d3b13ee02ab10b8d31ff0ad4874" width="512px"/>
       <br/><br/>
     
   </td>
