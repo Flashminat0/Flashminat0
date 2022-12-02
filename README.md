@@ -28,11 +28,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Take+a+time+to+appriciate+my+work+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
       
       
-- 🔭 I’m currently working on **SUSTY - Cloths shop website**
+- 🔭 I’m currently working on **Mintpay.lk**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Python and ML**
 
-- 💬 Ask me about **React , Express**
+- 💬 Ask me about **React , Express , Next.js , AWS DynamoDB , AWS Lambda and TawilwindCSS**
 
 
 - 🔄️ Profile view counter :  &nbsp;  ![](https://komarev.com/ghpvc/?username=Flashminat0&style=flat-square)
