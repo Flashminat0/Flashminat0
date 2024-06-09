@@ -30,7 +30,8 @@
       
 - 🔭 I’m currently working on **Mintpay.lk**
 
-- 🌱 I’m currently learning **Python and ML**
+- 🌱 I’m currently learning **UNITY**
+- 🎮 Check my ![Dev Blog](https://flashminat0.notion.site/Game-Dev-Blog-524ecdc0f95249ba80d9ecce9018168f) 
 
 - 💬 Ask me about **React , Express , Next.js , AWS DynamoDB , AWS Lambda and TawilwindCSS**
 
