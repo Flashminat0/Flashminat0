@@ -25,7 +25,7 @@
   <tr>
     <td class="tg-0pky">
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Take+a+time+to+appriciate+my+work+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=____Take+a+time+to+appriciate+my+work+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
       
       
 - 🔭 I’m currently working on **Mintpay.lk**
